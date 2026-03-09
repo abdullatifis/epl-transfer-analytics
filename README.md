@@ -35,7 +35,7 @@ signings in the dataset, losing €100m and €98m respectively
 (Man City, €60m → €200m) are the standout value signings
 
 ## Repository Structure
-
+```
 epl-transfer-analytics/
 │
 ├── data/                        # Raw CSV files from Transfermarkt
@@ -48,6 +48,7 @@ epl-transfer-analytics/
 ├── pl_transfers_queries.sql     # All SQL queries with comments
 ├── pl_transfers_analysis.md     # Full analysis with results and findings
 └── README.md                    
+```            
 
 
 ## Tools Used
